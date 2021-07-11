@@ -15,6 +15,7 @@
 		C24D3F872699A1DF0021D37D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C24D3F852699A1DF0021D37D /* LaunchScreen.storyboard */; };
 		C24D3F922699A1DF0021D37D /* FFFloatingTextFieldViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24D3F912699A1DF0021D37D /* FFFloatingTextFieldViewTests.swift */; };
 		C24D3F9D2699A1DF0021D37D /* FFFloatingTextFieldViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C24D3F9C2699A1DF0021D37D /* FFFloatingTextFieldViewUITests.swift */; };
+		C26238C1269B2D03000655BC /* FFFloatingTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26238C0269B2D03000655BC /* FFFloatingTextFieldView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C24D3F982699A1DF0021D37D /* FFFloatingTextFieldViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FFFloatingTextFieldViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C24D3F9C2699A1DF0021D37D /* FFFloatingTextFieldViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FFFloatingTextFieldViewUITests.swift; sourceTree = "<group>"; };
 		C24D3F9E2699A1DF0021D37D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C26238C0269B2D03000655BC /* FFFloatingTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FFFloatingTextFieldView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C24D3F832699A1DF0021D37D /* Assets.xcassets */,
 				C24D3F852699A1DF0021D37D /* LaunchScreen.storyboard */,
 				C24D3F882699A1DF0021D37D /* Info.plist */,
+				C26238C0269B2D03000655BC /* FFFloatingTextFieldView.swift */,
 			);
 			path = FFFloatingTextFieldView;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C26238C1269B2D03000655BC /* FFFloatingTextFieldView.swift in Sources */,
 				C24D3F7F2699A1DE0021D37D /* ViewController.swift in Sources */,
 				C24D3F7B2699A1DE0021D37D /* AppDelegate.swift in Sources */,
 				C24D3F7D2699A1DE0021D37D /* SceneDelegate.swift in Sources */,
